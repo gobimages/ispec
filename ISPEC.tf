@@ -157,3 +157,4 @@ resource "azurerm_virtual_machine_extension" "DP" {
     }
 SETTINGS
 }
+################END###############3
